@@ -6,6 +6,10 @@
   "homepage": ".",
   "keywords": [],
   "author": "",
+  "scripts": {
+    "start": "node ap.js"
+  },
+
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
